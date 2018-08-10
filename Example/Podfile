@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'UNTool_Example' do
+  pod 'UNTool', :path => '../'
+
+  target 'UNTool_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
