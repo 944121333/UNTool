@@ -1,0 +1,6 @@
+framework module UNToolKit {
+  umbrella header "UNToolKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

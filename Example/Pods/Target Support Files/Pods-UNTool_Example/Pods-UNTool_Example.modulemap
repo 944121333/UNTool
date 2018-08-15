@@ -1,0 +1,6 @@
+framework module Pods_UNTool_Example {
+  umbrella header "Pods-UNTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

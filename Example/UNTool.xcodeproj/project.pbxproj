@@ -355,11 +355,11 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-UNTool_Example/Pods-UNTool_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/UNTool/UNTool.framework",
+				"${BUILT_PRODUCTS_DIR}/UNToolKit/UNToolKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UNTool.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UNToolKit.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

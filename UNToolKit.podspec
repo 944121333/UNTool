@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'UNTool'
-  s.version          = '0.1.0'
+  s.name             = 'UNToolKit'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of UNTool.'
 
 # This description is used to generate tags and improve search results.
